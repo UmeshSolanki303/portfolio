@@ -218,12 +218,14 @@ h3 {
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     color: #222222;
-    font-size: 18px;
+/*     font-size: 18px; */
+	font-size: 22px;
     margin: 0 0 5px 0;
 }
 
 h6 {
-    font-size: 16px;
+/*     font-size: 16px; */
+	font-size: 22px;
     color: #888888;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
@@ -311,7 +313,8 @@ p {
 
 .navStyle ul li a {
     display: block;
-    font-size: 14px;
+/*     font-size: 14px; */
+	font-size: 22px;
     color: #222222;
     text-decoration: none;
     text-transform: uppercase;
@@ -408,7 +411,8 @@ p {
 }
 
 .top_left_cont h3 {
-    font-size: 16px;
+/*     font-size: 16px; */
+	font-size: 22px;
     color: #f56eab;
     margin: 0 0 20px 0;
     text-align: left;
@@ -430,12 +434,22 @@ p {
     color: #FFB21F;
 }
 
-.top_left_cont p {color: #B1B1B1;margin: 0 0 50px 0;line-height: 24px;font-size: 14px;text-align: center;letter-spacing: 1px;font-weight: normal;}
+.top_left_cont p {
+	color: #B1B1B1;
+	margin: 0 0 50px 0;
+	line-height: 24px;
+/* 	font-size: 14px; */
+	font-size: 22px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-weight: normal;
+}
 
 a.read_more, a.read_more2 {
     font-family: 'Raleway', sans-serif;
     display: block;
-    font-size: 16px;
+/*     font-size: 16px; */
+	font-size: 22px;
     width: 178px;
     height: 46px;
     line-height: 46px;
@@ -538,7 +552,8 @@ text-align: center;
 color:#fff;
 }
 .service_block p {
-    font-size: 14px;
+/*     font-size: 14px; */
+	font-size: 22px;
     color: #fff;
     margin: 0 0 35px 0;
 }
@@ -568,7 +583,8 @@ color:#fff;
 
 .service-list {
     padding: 0 0 0 0;
-    font-size: 14px;
+/*     font-size: 14px; */
+	font-size: 22px;
     margin-bottom: 40px;
 }
 
@@ -581,7 +597,8 @@ color:#fff;
 .service-list-col1 i {
     display:;
     color: #888;
-    font-size: 19px;
+/*     font-size: 19px; */
+	font-size: 22px;
     font-style: normal;
     line-height: 20px;
 }
@@ -781,7 +798,8 @@ img {
 }
 
 .client_profile h3 {
-    font-size: 18px;
+/*     font-size: 18px; */
+	font-size: 22px;
     color: #49b5e7;
     margin: 0 0 0 0;
 }
