@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /wp-content
+sitemap: https://umeshsolanki303.github.io/portfolio/home.html
+sitemap: https://umeshsolanki303.github.io/portfolio/Resume/Resume.pdf
