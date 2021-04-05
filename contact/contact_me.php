@@ -21,6 +21,6 @@ $email_body = "You have received a new message. \n\n".
 				  "Email: $email_address\n Message \n $message";
 $headers = "From: admin@yoursite.com\n";
 $headers .= "Reply-To: $email_address";	
-mail($to,$email_subject,$email_body,$headers);
+mail($to,$email_subject,$email_body,$email_address);
 return true;			
 ?>
